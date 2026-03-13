@@ -5,21 +5,3 @@
  * Text Domain:	   kubu
  * Description:    Kubu Theme
  */
-
-.wpsl-search {
-  padding:150px 50px 50px 50px!important;
-  /* background-color:#3abff0;
-  background-image:url("https://getkubu.com/wp-content/uploads/2022/05/installerBG-light.jpg");
-  background-repeat: no-repeat;
-  background-size:cover;
- background-position:100% 75%; */
-}
-
-#wpsl-search-btn {
-	background-color:#3ABFF0;
-	color:#FFF;
-	background-image:none;
-	padding:15px 60px;
-	border-radius:70px!important;
-	margin-top:40px;
-}
